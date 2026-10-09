@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Widgety</string>
+    <string name="pytanie">Jaki kolor ma trawa</string>
+    <string name="przycisk">Sprawdż odpowiedż</string>
+    <string name="jaki_kolor_ma_trawa">Jaki kolor ma Trawa?</string>
+    <string name="nacisnij">Nacisnij</string>
+    <string name="costam">costam</string>
+    <string-array name="opcjelisty">
+        <item>czerwony</item>
+        <item>zielony</item>
+        <item>niebieski</item>
+        <item>żółty</item>
+    </string-array>
+</resources>
